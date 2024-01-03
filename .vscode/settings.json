@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "deptrac",
+        "ergebnis",
+        "icanhazstring",
+        "pestphp",
+        "phpcpd",
+        "qossmic",
+        "ruleset",
+        "XDEBUG"
+    ],
+    "conventionalCommits.scopes": [
+        "cleanup",
+        "config"
+    ]
+}
