@@ -22,5 +22,5 @@ return Factory::create(new CodeIgniter4, $overrideRules, $options)->forLibrary(
     'Codeigniter 4 with Vite.js',
     'Fab IT Hub',
     'hello@fabithub.com',
-    2023
+    2024
 );

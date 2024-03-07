@@ -11,7 +11,8 @@
     }
   ],
   "require": {
-    "php": "^8.0"
+    "php": "^8.0",
+    "codeigniter4/framework": "^4.4"
   },
   "require-dev": {
     "codeigniter/coding-standard": "^1.7",
@@ -19,7 +20,7 @@
     "ergebnis/composer-normalize": "^2.41",
     "icanhazstring/composer-unused": "^0.8.11",
     "infection/infection": "^0.27.9",
-    "pestphp/pest": "^2.30",
+    "pestphp/pest": "^2.34",
     "pestphp/pest-plugin-faker": "^2.0",
     "pestphp/pest-plugin-type-coverage": "^2.6",
     "phpstan/phpstan": "^1.10",
@@ -33,6 +34,11 @@
   "autoload": {
     "psr-4": {
       "Fabithub\\ViteJs\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
     }
   },
   "config": {
