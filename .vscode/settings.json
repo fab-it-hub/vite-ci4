@@ -11,6 +11,7 @@
     ],
     "conventionalCommits.scopes": [
         "cleanup",
-        "config"
+        "config",
+        "deps"
     ]
 }
